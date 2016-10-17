@@ -15,6 +15,10 @@ module.exports = [
           exclude: /node_modules/,
           loader: 'babel-loader',
         },
+        {
+          test: /\.sass?$/,
+          loaders: ['style', 'css', 'sass'],
+        },
       ],
     },
     resolve: {

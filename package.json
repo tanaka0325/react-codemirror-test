@@ -1,9 +1,8 @@
 {
-  "name": "react-skeleton",
+  "name": "react-codemirror-test",
   "version": "0.0.1",
-  "description": "skeleton for minimum react application.",
   "repository": {
-    "url": "git@github.com:tanaka0325/react-skeleton.git",
+    "url": "git@github.com:tanaka0325/react-codemirror-test.git",
     "type": "git"
   },
   "scripts": {

@@ -1,2 +1,1 @@
-# react-skeleton
-skeleton for minimum react application.
+# react-codemirror-test
